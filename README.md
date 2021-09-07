@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rustam
-- 👀 I’m Data Analisyst
-- 📫 You can find me anywhere: @knrust
+- 👋 Привет, меня зовут Рустам
+- 👀 Учусь дата-анализу
+- 📫 Связь со мной везде: @knrust
 
 <!---
 knrust/knrust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
